@@ -2,6 +2,15 @@
 import BaseHead from "@/components/BaseHead.astro";
 import Navigation from "@/components/global/Navigation.astro";
 import Footer from "@/components/global/Footer.astro";
+import { Image } from "astro:assets";
+import banner from "../images/banner.png";
+import logo from "../images/logo-circular.png";
+import Social from "@/components/Social.astro";
+// Astro props
+interface Props {
+  title: string;
+}
+const { title } = Astro.props;
 ---
 
 <html lang="en">
@@ -10,6 +19,28 @@ import Footer from "@/components/global/Footer.astro";
   </head>
   <body class="flex flex-col max-w-3xl min-h-screen px-8 mx-auto bg-white">
     <Navigation />
+    <div class="relative mb-16">
+      <Image
+        width={1920}
+        height={1080}
+        src={banner}
+        alt="Discusiones Alrededor de la Biblia"
+        class="w-full h-64 object-cover rounded-xl"
+      />
+      <Image
+        width={512}
+        height={512}
+        src={logo}
+        alt="Discusiones Alrededor de la Biblia"
+        class="absolute top-3/4 right-0 left-0 m-auto w-32 h-32 object-cover rounded-full"
+      />
+    </div>
+    <h1
+        class="text-4xl text-balance font-medium font-display text-base-900 text-center"
+      >
+      {title}
+    </h1>
+    <Social />
     <main class="flex-grow"><slot /></main>
     <Footer />
   </body>

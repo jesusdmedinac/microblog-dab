@@ -1,0 +1,47 @@
+---
+const socials = [
+  {
+    name: "YouTube",
+    url: "https://www.youtube.com/@discusionesbiblicas",
+    class: "text-base-500 hover:text-red-500 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "Acast",
+    url: "https://www.acast.com/discusionesbiblicas",
+    class: "text-base-500 hover:text-neutral-900 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "Spotify",
+    url: "https://open.spotify.com/show/6YUuB3dgq7vaLK6YVXvs7Q",
+    class: "text-base-500 hover:text-green-500 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "Apple Podcast",
+    url: "https://podcasts.apple.com/mx/podcast/discusiones-biblicas/id1645841221",
+    class: "text-base-500 hover:text-violet-500 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "Facebook",
+    url: "https://www.facebook.com/discusionesbiblicas",
+    class: "text-base-500 hover:text-blue-500 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "Instagram",
+    url: "https://www.instagram.com/discusionesbiblicas",
+    class: "text-base-500 hover:text-pink-500 transition-colors duration-200 font-medium",
+  },
+  {
+    name: "TikTok",
+    url: "https://www.tiktok.com/@discusionesbiblicas",
+    class: "text-base-500 hover:text-stone-900 transition-colors duration-200 font-medium",
+  },
+];
+---
+<p class="text-xs text-base-500 text-center mb-4">
+  {socials.map((social, index) => (
+    <>
+      <a href={social.url} class={social.class}>{social.name}</a>
+      {index < socials.length - 1 && " • "}
+    </>
+  ))}
+</p>
