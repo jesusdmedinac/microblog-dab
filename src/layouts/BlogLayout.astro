@@ -4,17 +4,17 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<BaseLayout>
+<BaseLayout title={frontmatter.title} displayBanner={false}>
   <section>
     <div class="py-24">
       <div class="lg:text-center">
-        <div class="max-w-xl mx-auto">
+        <div class="">
           <h1
             class="text-4xl text-balance font-medium font-display text-base-900"
           >
             {frontmatter.title}
           </h1>
-          <p class="max-w-2xl mx-auto mt-4 text-zinc-500 text-sm text-balance">
+          <p class="mt-4 text-zinc-500 text-sm text-balance">
             <em>{frontmatter.description}</em>
           </p>
         </div>
@@ -27,9 +27,11 @@ const { frontmatter } = Astro.props;
         />
         <div class="flex flex-col justify-between mt-4 md:flex-row">
           <p class="text-xs text-zinc-500">
-            {frontmatter.pubDate.toString().slice(0, 10)} - Written by: {
-              frontmatter.author
-            }
+            {frontmatter.pubDate.toLocaleDateString("es-MX", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })} - {frontmatter.author}
           </p>
           <div class="flex gap-3">
             {
@@ -43,7 +45,7 @@ const { frontmatter } = Astro.props;
         </div>
       </div>
 
-      <div class="prose prose-sm max-w-md mt-12 mx-auto">
+      <div class="prose prose-sm mt-12 mx-auto">
         <slot />
       </div>
     </div>
