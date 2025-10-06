@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e2.jpg"
   alt: "DAB - E2 - Enseñanza vs Inspiración"
 tags: ["Podcast", "Random", "DAB", "Discusiones Bíblicas", "Piloto", "Enseñanza", "Inspiración"]
+prior: "/posts/dab-e1"
+next: "/posts/dab-e3"
 ---
 
 Bienvenidos a Discusiones Bíblicas, un podcast de discusiones alrededor de la Biblia.

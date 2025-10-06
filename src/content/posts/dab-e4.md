@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e4.jpg"
   alt: "DAB - E4 - Acción de gracias"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Acción de Gracias", "Thanksgiving"]
+prior: "/posts/dab-e3"
+next: "/posts/dab-e5"
 ---
 
 ¡Bienvenidos a Discusiones Bíblicas, el podcast donde la Biblia se convierte en un banquete de ideas!

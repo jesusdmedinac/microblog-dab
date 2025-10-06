@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e11.png"
   alt: "DAB - E11 - Discusiones Random"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Dudas", "Contradicciones", "Adoctrinamiento"]
+prior: "/posts/dab-e10"
+next: "/posts/dab-e12"
 ---
 
 ¡Bienvenidos a *Discusiones Bíblicas*, el podcast donde transformamos las preguntas más incómodas en conversaciones honestas! En este episodio transmitimos en vivo una charla totalmente orgánica —sin guion, sin poses y con mucho café virtual— para explorar por qué las dudas siguen siendo incómodas en tantas comunidades de fe y qué hacemos con las contradicciones que encontramos en la Biblia.

@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e10.png"
   alt: "DAB - E10 - Infiltrados en la IAFCJ"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "IAFCJ", "Pentecostalismo", "Experiencias"]
+prior: "/posts/dab-e9"
+next: "/posts/dab-e11"
 ---
 
 En este décimo episodio de *Discusiones Bíblicas*, llevamos nuestra exploración a un nuevo nivel. No solo visitamos una iglesia; nos convertimos, por tres domingos, en parte de su equipo técnico. Bienvenidos a nuestra inmersión en la **Iglesia Apostólica de la Fe en Cristo Jesús (IAFCJ)**.

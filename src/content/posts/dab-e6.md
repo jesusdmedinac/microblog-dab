@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e6.jpg"
   alt: "DAB - E6 - ¿Qué es una secta?"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Sectas", "Religión"]
+prior: "/posts/dab-e5"
+next: "/posts/dab-e7"
 ---
 
 # ¿Qué es una secta? ¿Cómo saber si estás o no dentro de una?

@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e3.jpg"
   alt: "DAB - E3 - Halloween"
 tags: ["Podcast", "Random", "DAB", "Discusiones Bíblicas", "Piloto", "Halloween", "Víspera de Todos los Santos"]
+prior: "/posts/dab-e2"
+next: "/posts/dab-e4"
 ---
 
 Bienvenidos a Discusiones Bíblicas, un podcast de discusiones alrededor de la Biblia.

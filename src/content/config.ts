@@ -12,6 +12,8 @@ const postsCollection = defineCollection({
       }),
       tags: z.array(z.string()),
       url: z.string(),
+      prior: z.string().nullable(),
+      next: z.string().nullable(),
     }),
 });
 export const collections = {

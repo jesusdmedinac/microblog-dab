@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e7.jpg"
   alt: "DAB - E7 - Experiencias en el Salón del Reino"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Testigos de Jehová", "Experiencias"]
+prior: "/posts/dab-e6"
+next: "/posts/dab-e8"
 ---
 
 # ¡Prepárense para una inmersión profunda en el corazón de una comunidad religiosa!

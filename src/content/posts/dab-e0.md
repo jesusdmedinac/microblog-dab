@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e0.jpg"
   alt: "DAB - E0 - Episodio Piloto"
 tags: ["DAB", "Discusiones Bíblicas", "Podcast", "Random"]
+prior: null
+next: "/posts/dab-e1"
 ---
 
 ## **¿De qué va Discusiones Bíblicas?**

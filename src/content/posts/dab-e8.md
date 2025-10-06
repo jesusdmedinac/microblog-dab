@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e8.png"
   alt: "DAB - E8 - SUD (Mormones)"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "SUD", "Mormones", "Experiencias"]
+prior: "/posts/dab-e7"
+next: "/posts/dab-e9"
 ---
 
 # ¿Haz escuchado de los Mormones?

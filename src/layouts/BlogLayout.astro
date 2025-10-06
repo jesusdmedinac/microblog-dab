@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import PriorNextEpisode from "@/components/PriorNextEpisode.astro";
 const { frontmatter } = Astro.props;
 ---
 
@@ -52,4 +53,5 @@ const { frontmatter } = Astro.props;
       </div>
     </div>
   </section>
+  <PriorNextEpisode prior={frontmatter.prior} next={frontmatter.next} />
 </BaseLayout>

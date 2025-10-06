@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e5.jpg"
   alt: "DAB - E5 - Orígenes de Navidad"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Navidad", "Tradiciones"]
+prior: "/posts/dab-e4"
+next: "/posts/dab-e6"
 ---
 
 # **¡Prepárate para un viaje a través del tiempo y las tradiciones!**

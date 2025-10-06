@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e12.png"
   alt: "DAB - E12 - Antimarcha para Jesús Tijuana 2025"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Marcha para Jesús", "Tijuana", "Política", "Contradicciones"]
+prior: "/posts/dab-e11"
+next: null
 ---
 
 ¡Bienvenidos a *Discusiones Bíblicas*, el espacio donde las experiencias de fe se enfrentan a la realidad que vivimos día a día! En este episodio nos sumergimos en la **Marcha para Jesús Tijuana 2025**, pero antes nos tocó presenciar la reunión previa de la **Alianza Evangélica de Tijuana**, un escenario que evidenció cómo la retórica espiritual puede transformarse en plataforma política.

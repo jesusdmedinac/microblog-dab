@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const blogEntries = await getCollection("posts");
+  return blogEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+interface Props {
+  prior: string;
+  next: string;
+}
+const { prior, next } = Astro.props;
+const paths = [prior, next]
+---
+<section>
+  <div class="flex justify-between">
+    {
+      paths
+      .map((path, index) => {
+        const paths = getStaticPaths()
+        return (
+          <a href={path}>
+            <div class="text-center border-1 rounded-sm px-2 py-1">{index === 0 ? "<-" : ""} {path} {index === 1 ? "->" : ""}</div>
+          </a>
+        )
+      })
+    }
+  </div>
+</section>

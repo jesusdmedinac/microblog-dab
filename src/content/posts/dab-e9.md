@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e9.png"
   alt: "DAB - E9 - LLDM Experiencias sin filtros"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "La Luz del Mundo", "Experiencias"]
+prior: "/posts/dab-e8"
+next: "/posts/dab-e10"
 ---
 
 En este noveno episodio de *Discusiones Bíblicas*, abrimos un espacio delicado pero necesario: Hablamos con personas que forman parte de La Luz del Mundo (LLDM), una organización religiosa con una historia compleja, fuerte arraigo en México y presencia internacional.

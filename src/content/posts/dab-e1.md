@@ -8,6 +8,8 @@ image:
   url: "/src/images/blog/thumbnail-dab-e1.jpg"
   alt: "DAB - E1 - Espíritus Encarcelados"
 tags: ["DAB", "Discusiones Bíblicas", "Podcast", "Espíritus Encarcelados", "Biblia", "1 Pedro", "SUD", "Mormones"]
+prior: "/posts/dab-e0"
+next: "/posts/dab-e2"
 ---
 
 En el episodio de hoy discutimos sobre la experiencia de Heber visitando la Iglesia de los Santos de los últimos días.
