@@ -4,9 +4,9 @@ author: Heber Villegas y Jesus Medina
 title: DAB - E9 - LLDM Experiencias sin filtros
 description: "Escuchamos testimonios sin filtros dentro de La Luz del Mundo tras acompañar a la comunidad durante tres domingos."
 image:
-  url: "/src/images/blog/thumbnail-dab-e9.jpg"
+  url: "/src/images/blog/thumbnail-dab-e9.png"
   alt: "DAB - E9 - LLDM Experiencias sin filtros"
-tags: ["Podcast", "DAB", "Discusiones Bíblicas", "La Luz del Mundo", "Testimonios"]
+tags: ["Podcast", "DAB", "Discusiones Bíblicas", "La Luz del Mundo", "Experiencias"]
 ---
 
 [https://youtu.be/_1tTBfEjhLU](https://youtu.be/_1tTBfEjhLU)
