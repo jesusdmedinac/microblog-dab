@@ -23,7 +23,7 @@ const sortedPosts = allPosts.sort(
       image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
       socialImage={{ src: logoSpotify, alt: "Discusiones Alrededor de la Biblia" }}
     />
-    <div class="py-24">
+    <div>
       <p>
         <strong>Bienvenido a Discusiones Bíblicas</strong>, un espacio donde la pasión por la Biblia se une al análisis profundo y el debate respetuoso.
         <br />
@@ -63,7 +63,7 @@ const sortedPosts = allPosts.sort(
       </div>
       <div class="grid grid-cols-1 mt-4 gap-8 gap-y-24 sm:grid-cols-2">
         {
-          sortedPosts.slice(0, 8).map((post) => (
+          sortedPosts.slice(0, 6).map((post) => (
             <BlogEntries
               url={"/posts/" + post.slug}
               alt={post.data.title}
@@ -81,6 +81,13 @@ const sortedPosts = allPosts.sort(
           ))
         }
       </div>
+      <Cta
+        title="Encuentra todos nuestros episodios"
+        description="Todos los episodios disponibles en un solo lugar"
+        url="https://discusionesalrededordebiblia.com/allposts"
+        image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+        socialImage={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+      />
     </div>
   </section>
 </BaseLayout>
