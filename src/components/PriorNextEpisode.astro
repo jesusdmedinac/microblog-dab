@@ -1,32 +1,66 @@
 ---
 import { getCollection } from 'astro:content';
-
-export async function getStaticPaths() {
-  const blogEntries = await getCollection("posts");
-  return blogEntries.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
-}
+import { Image } from 'astro:assets';
 interface Props {
-  prior: string;
-  next: string;
+  prior: string; // slug del post anterior
+  next: string; // slug del post siguiente
 }
+
 const { prior, next } = Astro.props;
-const paths = [prior, next]
+
+// Obtenemos todos los posts una sola vez
+const allPosts = await getCollection('posts');
+
+// Buscamos el post anterior y el siguiente por su slug
+const findBySlug = (slug: string) => allPosts.find(p => p.slug === slug.replace('/posts/', ''));
+
+interface Post {
+  slug: string;
+  data: {
+    title: string;
+    image: {
+      url: string;
+      alt: string;
+    };
+  };
+}
+const mapAsPost = (post: Post) => {
+  const splitTitle = post.data.title.split('-');
+  const title = [splitTitle[0], splitTitle[1]].map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' - ');
+  return {
+    slug: post.slug,
+    title,
+    image: post.data.image,
+  };
+};
+const priorPost = prior ? mapAsPost(findBySlug(prior)) : undefined;
+const nextPost = next ? mapAsPost(findBySlug(next)) : undefined;
 ---
-<section>
+<section class="py-8">
   <div class="flex justify-between">
-    {
-      paths
-      .map((path, index) => {
-        const paths = getStaticPaths()
-        return (
-          <a href={path}>
-            <div class="text-center border-1 rounded-sm px-2 py-1">{index === 0 ? "<-" : ""} {path} {index === 1 ? "->" : ""}</div>
-          </a>
-        )
-      })
-    }
+    {priorPost ? (
+      <a href={`/posts/${priorPost.slug}`} class="flex flex-row items-center justify-center text-center border rounded-lg px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800">
+        <span class="block text-sm font-medium">&larr;</span>
+        <Image
+          width={512}
+          height={512}
+          src={priorPost.image.url}
+          alt={priorPost.title}
+          class="w-full h-32 object-cover rounded-xl"
+        />
+      </a>
+    ) : <div />}
+    {nextPost ? (
+      <a href={`/posts/${nextPost.slug}`} class="flex flex-row items-center justify-center text-center border rounded-lg px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800">
+        <Image
+          width={512}
+          height={512}
+          src={nextPost.image.url}
+          alt={nextPost.title}
+          class="w-full h-32 object-cover rounded-xl"
+        />
+        <span class="block text-sm font-medium">&rarr;</span>
+      </a>
+    ) : <div />}
   </div>
 </section>
