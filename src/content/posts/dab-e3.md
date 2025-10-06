@@ -1,27 +1,21 @@
 ---
-pubDate: 2023-01-10
+pubDate: 2023-06-10
 author: Heber Villegas y Jesus Medina
 title: DAB - E3 - Halloween
-description: "En este episodio piloto, titulado DAB - E0 - Episodio Piloto, presentamos el corazón de lo que será Discusiones Bíblicas: un espacio de conversación donde la fe, la curiosidad y el pensamiento crítico se encuentran."
+description: "En este episodio exploramos Halloween desde la perspectiva bíblica, desmitificando tradiciones y compartiendo vivencias personales sobre la Víspera de Todos los Santos."
 image:
   url: "/src/images/blog/thumbnail-dab-e3.jpg"
   alt: "DAB - E3 - Halloween"
 tags: ["Podcast", "Random", "DAB", "Discusiones Bíblicas", "Piloto", "Halloween", "Víspera de Todos los Santos"]
 ---
 
-[https://youtu.be/ccFAmOFWQZ0?si=f9nChUxyvvLUfeRt](https://youtu.be/ccFAmOFWQZ0?si=f9nChUxyvvLUfeRt)
+[https://youtu.be/dNEjbRpgxzE?si=CC5Ei-PZ2PaFjutB](https://youtu.be/dNEjbRpgxzE?si=CC5Ei-PZ2PaFjutB)
 
 Bienvenidos a Discusiones Bíblicas, un podcast de discusiones alrededor de la Biblia.
 
-En el episodio de hoy discutimos sobre las diferencias entre Enseñanza e Inspiración.
+En esta ocasión, ponemos en la mesa las diferentes formas de pensar y creer, acerca de la celebración del 31 de octubre, Halloween (Víspera de Todos los Santos).
 
-Mientras algunos predicadores prefieren tomar versículos bíblicos y darles su propia interpretación, otros simplemente enseñan tal cuál la Biblia está escrita.
-
-Creemos que el predicador tiene la responsabilidad de aclarar que su predicación puede ser sólo una interpretación personal.
-
-Hay personas que prefieren escuchar un mensaje positivo para sus vidas, mientras que otros quieren aprender qué dice la Biblia acerca de diferentes temas.
-
-Y tú ¿Prefieres Inspiración o Enseñanza?
+Discutimos, investigamos y exponemos de dónde vienen ciertas interpretaciones de la festividad, nuestras vivencias personales y otras que hemos visto y escuchado, ponemos en evidencia varios mitos que se tienen acerca de algunas costumbres de esta fiesta.
 
 **¿Te lo vas a perder?**
 
