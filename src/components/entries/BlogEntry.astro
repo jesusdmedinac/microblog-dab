@@ -7,11 +7,11 @@ const { title, url, description, pubDate, author, image, tags } = Astro.props;
   <a href={url} title={title} class="group block">
     <div class="block w-full lg:col-span-2">
       <Image
-        width={1200}
-        height={630}
+        width={1280}
+        height={720}
         src={image}
         alt={title}
-        class="object-cover w-full h-full bg-center aspect-12/8 rounded-xl"
+        class="object-cover w-full h-full bg-center aspect-16/9 rounded-xl"
       />
     </div>
   </a>
