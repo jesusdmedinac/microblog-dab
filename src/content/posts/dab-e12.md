@@ -1,5 +1,5 @@
 ---
-pubDate: 2025-07-27
+pubDate: 2025-09-27
 author: Heber Villegas y Jesus Medina
 title: DAB - E12 - Antimarcha para Jesús Tijuana 2025
 description: "Desmenuzamos la Marcha para Jesús Tijuana 2025 tras asistir a la Alianza Evangélica y cuestionar el uso político de la fe."
