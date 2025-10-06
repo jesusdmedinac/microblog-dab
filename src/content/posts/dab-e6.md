@@ -34,11 +34,3 @@ Finalmente, nos adentramos en cómo las sectas manipulan a sus miembros. Desde p
 
 ### **¿Quieres escuchar más sobre DAB?**
 
-- [YouTube](https://www.youtube.com/@discusionesbiblicas)
-- [Acast](https://shows.acast.com/discusionesbiblicas)
-- [Podimo](https://share.podimo.com/podcast/ef93b5a2-8bd4-4105-abe3-3c1cffa718b7?creatorId=e12b0f6c-3337-4ab7-abd1-5647481bc9fb&key=GePw0UCkvjln&source=ln&from=studio)
-- [Spotify](https://open.spotify.com/show/6YUuB3dgq7vaLK6YVXvs7Q)
-- [Apple Podcast](https://podcasts.apple.com/mx/podcast/discusiones-biblicas/id1645841221)
-- [Facebook](https://www.facebook.com/discusionesbiblicas)
-- [Instagram](https://www.instagram.com/discusionesbiblicas/)
-- [TikTok](https://www.tiktok.com/@discusionesbiblicas)

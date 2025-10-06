@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import PriorNextEpisode from "@/components/PriorNextEpisode.astro";
+import Social from "@/components/Social.astro";
 const { frontmatter } = Astro.props;
 ---
 
@@ -48,9 +49,10 @@ const { frontmatter } = Astro.props;
         </div>
       </div>
 
-      <div class="prose prose-sm mt-12 mx-auto">
+      <div class="prose prose-sm mt-12 mb-4 mx-auto">
         <slot />
       </div>
+      <Social className="text-xl text-base-500 text-center mb-4 font-bold" />
     </div>
   </section>
   <PriorNextEpisode prior={frontmatter.prior} next={frontmatter.next} />
