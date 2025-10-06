@@ -3,10 +3,9 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import BlogEntries from "@/components/entries/BlogEntry.astro";
 import Cta from "@/components/global/Cta.astro";
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
-import banner from "../images/banner.png";
 import logo from "../images/logo-circular.png";
-import logoYoutube from "../images/logo-youtube.png";
+import logoYoutube from "../images/logo-youtube.png"
+import logoSpotify from "../images/logo-spotify.png"
 const allPosts = await getCollection("posts");
 const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
 // Sort posts by date in descending order (newest first)
@@ -17,6 +16,13 @@ const sortedPosts = allPosts.sort(
 
 <BaseLayout title="Discusiones Alrededor de la Biblia" displayBanner={true}>
   <section>
+    <Cta
+      title="Ya estamos en Spotify"
+      description="Disfruta de nuestros episodios en audio o video"
+      url="https://open.spotify.com/show/6YUuB3dgq7vaLK6YVXvs7Q"
+      image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+      socialImage={{ src: logoSpotify, alt: "Discusiones Alrededor de la Biblia" }}
+    />
     <div class="py-24">
       <p>
         <strong>Bienvenido a Discusiones Bíblicas</strong>, un espacio donde la pasión por la Biblia se une al análisis profundo y el debate respetuoso.
@@ -36,32 +42,13 @@ const sortedPosts = allPosts.sort(
       </p>
       <br />
       <br />
-      <a href="https://www.youtube.com/@discusionesbiblicas">
-        <div class="flex flex-row gap-4 border border-base-200 rounded-lg p-4">
-          <div class="flex flex-col gap-2">
-            <p class="text-lg font-medium">Discusiones Bíblicas</p>
-            <p class="text-base text-base-600">Somos dos entusiastas por las conversaciones controvertidas. 
-            Nos emociona poder descubrir diferentes interpretaciones bíblicas que nos hagan cambiar nuestra manera de pensar.</p>
-            <div class="flex flex-row gap-2 items-center">
-              <Image
-                width={144}
-                height={144}
-                src={logoYoutube}
-                alt="Discusiones Alrededor de la Biblia"
-                class="w-8 h-8 object-cover rounded-full"
-              />
-              <p class="text-base text-base-600">https://www.youtube.com/@discusionesbiblicas</p>
-            </div>
-          </div>
-          <Image
-            width={512}
-            height={512}
-            src={logo}
-            alt="Discusiones Alrededor de la Biblia"
-            class="w-32 h-32 object-cover rounded-full"
-          />
-        </div>
-      </a>
+      <Cta
+        title="Conoce nuestro canal de YouTube"
+        description="Suscríbete a nuestro canal de YouTube y únete a la comunidad de Discusiones Bíblicas."
+        url="https://www.youtube.com/@discusionesalrededordebiblia"
+        image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+        socialImage={{ src: logoYoutube, alt: "Discusiones Alrededor de la Biblia" }}
+      />
       <div class="flex flex-wrap gap-3 mt-8">
         {
           tags.map((tag) => (
@@ -76,7 +63,7 @@ const sortedPosts = allPosts.sort(
       </div>
       <div class="grid grid-cols-1 mt-4 gap-8 gap-y-24 sm:grid-cols-2">
         {
-          sortedPosts.map((post) => (
+          sortedPosts.slice(0, 8).map((post) => (
             <BlogEntries
               url={"/posts/" + post.slug}
               alt={post.data.title}
