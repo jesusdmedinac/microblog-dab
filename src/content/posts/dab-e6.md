@@ -1,5 +1,5 @@
 ---
-pubDate: 2025-01-30
+pubDate: 2025-01-31
 author: Heber Villegas y Jesus Medina
 title: DAB - E6 - ¿Qué es una secta?
 description: "Definimos qué es una secta, compartimos experiencias personales y discutimos los límites entre religión, ortodoxia y manipulación."

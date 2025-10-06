@@ -1,5 +1,5 @@
 ---
-pubDate: 2023-06-10
+pubDate: 2023-01-10
 author: Heber Villegas y Jesus Medina
 title: DAB - E3 - Halloween
 description: "En este episodio exploramos Halloween desde la perspectiva bíblica, desmitificando tradiciones y compartiendo vivencias personales sobre la Víspera de Todos los Santos."

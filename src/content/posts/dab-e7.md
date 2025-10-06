@@ -1,5 +1,5 @@
 ---
-pubDate: 2025-02-06
+pubDate: 2025-02-07
 author: Heber Villegas y Jesus Medina
 title: DAB - E7 - Experiencias en el Salón del Reino
 description: "Compartimos cómo es asistir a reuniones de los Testigos de Jehová, desde la recepción hasta los temas que marcan sus cultos."

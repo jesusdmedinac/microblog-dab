@@ -1,5 +1,5 @@
 ---
-pubDate: 2025-04-25
+pubDate: 2025-04-27
 author: Heber Villegas y Jesus Medina
 title: DAB - E9 - LLDM Experiencias sin filtros
 description: "Escuchamos testimonios sin filtros dentro de La Luz del Mundo tras acompañar a la comunidad durante tres domingos."
