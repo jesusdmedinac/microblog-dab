@@ -3,13 +3,12 @@ pubDate: 2025-04-08
 author: Heber Villegas y Jesus Medina
 title: DAB - E8 - SUD (Mormones)
 description: "Relatamos tres domingos completos dentro de la Iglesia de Jesucristo de los Santos de los Últimos Días para entender su doctrina y comunidad."
+url: "https://www.youtube.com/watch?v=b3RkpdFw5NY"
 image:
   url: "/src/images/blog/thumbnail-dab-e8.png"
   alt: "DAB - E8 - SUD (Mormones)"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "SUD", "Mormones", "Experiencias"]
 ---
-
-[https://www.youtube.com/watch?v=b3RkpdFw5NY](https://www.youtube.com/watch?v=b3RkpdFw5NY)
 
 # ¿Haz escuchado de los Mormones?
 

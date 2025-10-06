@@ -3,13 +3,12 @@ pubDate: 2025-06-14
 author: Heber Villegas y Jesus Medina
 title: DAB - E10 - Infiltrados en la IAFCJ
 description: "Nos integramos al equipo técnico de la IAFCJ durante tres domingos para contar cómo viven su teología, liturgia y contradicciones."
+url: "https://www.youtube.com/watch?v=JgSvuxT-1ew"
 image:
   url: "/src/images/blog/thumbnail-dab-e10.png"
   alt: "DAB - E10 - Infiltrados en la IAFCJ"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "IAFCJ", "Pentecostalismo", "Experiencias"]
 ---
-
-[https://www.youtube.com/watch?v=JgSvuxT-1ew](https://www.youtube.com/watch?v=JgSvuxT-1ew)
 
 En este décimo episodio de *Discusiones Bíblicas*, llevamos nuestra exploración a un nuevo nivel. No solo visitamos una iglesia; nos convertimos, por tres domingos, en parte de su equipo técnico. Bienvenidos a nuestra inmersión en la **Iglesia Apostólica de la Fe en Cristo Jesús (IAFCJ)**.
 

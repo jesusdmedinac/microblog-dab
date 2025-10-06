@@ -3,13 +3,12 @@ pubDate: 2025-04-27
 author: Heber Villegas y Jesus Medina
 title: DAB - E9 - LLDM Experiencias sin filtros
 description: "Escuchamos testimonios sin filtros dentro de La Luz del Mundo tras acompañar a la comunidad durante tres domingos."
+url: "https://www.youtube.com/watch?v=_1tTBfEjhLU"
 image:
   url: "/src/images/blog/thumbnail-dab-e9.png"
   alt: "DAB - E9 - LLDM Experiencias sin filtros"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "La Luz del Mundo", "Experiencias"]
 ---
-
-[https://youtu.be/_1tTBfEjhLU](https://youtu.be/_1tTBfEjhLU)
 
 En este noveno episodio de *Discusiones Bíblicas*, abrimos un espacio delicado pero necesario: Hablamos con personas que forman parte de La Luz del Mundo (LLDM), una organización religiosa con una historia compleja, fuerte arraigo en México y presencia internacional.
 

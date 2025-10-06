@@ -3,13 +3,12 @@ pubDate: 2025-01-31
 author: Heber Villegas y Jesus Medina
 title: DAB - E6 - ¿Qué es una secta?
 description: "Definimos qué es una secta, compartimos experiencias personales y discutimos los límites entre religión, ortodoxia y manipulación."
+url: "https://www.youtube.com/watch?v=2g9canpxF5A"
 image:
   url: "/src/images/blog/thumbnail-dab-e6.jpg"
   alt: "DAB - E6 - ¿Qué es una secta?"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Sectas", "Religión"]
 ---
-
-[https://youtu.be/2g9canpxF5A](https://youtu.be/2g9canpxF5A)
 
 # ¿Qué es una secta? ¿Cómo saber si estás o no dentro de una?
 

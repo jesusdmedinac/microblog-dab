@@ -3,13 +3,12 @@ pubDate: 2025-02-07
 author: Heber Villegas y Jesus Medina
 title: DAB - E7 - Experiencias en el Salón del Reino
 description: "Compartimos cómo es asistir a reuniones de los Testigos de Jehová, desde la recepción hasta los temas que marcan sus cultos."
+url: "https://www.youtube.com/watch?v=n84haalJF20"
 image:
   url: "/src/images/blog/thumbnail-dab-e7.jpg"
   alt: "DAB - E7 - Experiencias en el Salón del Reino"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Testigos de Jehová", "Experiencias"]
 ---
-
-[https://youtu.be/n84haalJF20](https://youtu.be/n84haalJF20)
 
 # ¡Prepárense para una inmersión profunda en el corazón de una comunidad religiosa!
 

@@ -3,15 +3,14 @@ pubDate: 2025-04-22
 author: Heber Villegas y Jesus Medina
 title: DAB - E0 - Episodio Piloto
 description: "En este episodio piloto, titulado DAB - E0 - Episodio Piloto, presentamos el corazón de lo que será Discusiones Bíblicas: un espacio de conversación donde la fe, la curiosidad y el pensamiento crítico se encuentran."
+url: "https://www.youtube.com/watch?v=0CC_iNWEGYY"
 image:
   url: "/src/images/blog/thumbnail-dab-e0.jpg"
   alt: "DAB - E0 - Episodio Piloto"
 tags: ["DAB", "Discusiones Bíblicas", "Podcast", "Random"]
 ---
 
-[https://youtu.be/0CC_iNWEGYY](https://youtu.be/0CC_iNWEGYY)
-
-### **¿De qué va Discusiones Bíblicas?**
+## **¿De qué va Discusiones Bíblicas?**
 
 En este **episodio piloto**, titulado **DAB - E0 - Episodio Piloto**, presentamos el corazón de lo que será *Discusiones Bíblicas*: un espacio de conversación donde la fe, la curiosidad y el pensamiento crítico se encuentran.
 

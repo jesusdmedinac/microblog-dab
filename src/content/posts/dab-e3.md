@@ -3,13 +3,12 @@ pubDate: 2023-01-10
 author: Heber Villegas y Jesus Medina
 title: DAB - E3 - Halloween
 description: "En este episodio exploramos Halloween desde la perspectiva bíblica, desmitificando tradiciones y compartiendo vivencias personales sobre la Víspera de Todos los Santos."
+url: "https://www.youtube.com/watch?v=dNEjbRpgxzE"
 image:
   url: "/src/images/blog/thumbnail-dab-e3.jpg"
   alt: "DAB - E3 - Halloween"
 tags: ["Podcast", "Random", "DAB", "Discusiones Bíblicas", "Piloto", "Halloween", "Víspera de Todos los Santos"]
 ---
-
-[https://youtu.be/dNEjbRpgxzE?si=CC5Ei-PZ2PaFjutB](https://youtu.be/dNEjbRpgxzE?si=CC5Ei-PZ2PaFjutB)
 
 Bienvenidos a Discusiones Bíblicas, un podcast de discusiones alrededor de la Biblia.
 

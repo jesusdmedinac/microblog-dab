@@ -1,15 +1,14 @@
 ---
 pubDate: 2025-07-27
 author: Heber Villegas y Jesus Medina
-title: DAB - E12 - Marcha para Jesús - Fe, Política y Contradicciones
+title: DAB - E12 - Antimarcha para Jesús Tijuana 2025
 description: "Desmenuzamos la Marcha para Jesús Tijuana 2025 tras asistir a la Alianza Evangélica y cuestionar el uso político de la fe."
+url: "https://www.youtube.com/watch?v=eAWGlgcsnxM"
 image:
   url: "/src/images/blog/thumbnail-dab-e12.png"
-  alt: "DAB - E12 - Marcha para Jesús: Fe, Política y Contradicciones"
+  alt: "DAB - E12 - Antimarcha para Jesús Tijuana 2025"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Marcha para Jesús", "Tijuana", "Política", "Contradicciones"]
 ---
-
-[https://www.youtube.com/watch?v=eAWGlgcsnxM](https://www.youtube.com/watch?v=eAWGlgcsnxM)
 
 ¡Bienvenidos a *Discusiones Bíblicas*, el espacio donde las experiencias de fe se enfrentan a la realidad que vivimos día a día! En este episodio nos sumergimos en la **Marcha para Jesús Tijuana 2025**, pero antes nos tocó presenciar la reunión previa de la **Alianza Evangélica de Tijuana**, un escenario que evidenció cómo la retórica espiritual puede transformarse en plataforma política.
 

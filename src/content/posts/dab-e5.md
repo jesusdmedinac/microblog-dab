@@ -3,13 +3,12 @@ pubDate: 2024-06-12
 author: Heber Villegas, Jesus Medina y Ale Villegas
 title: DAB - E5 - Orígenes de Navidad
 description: "Recorremos los símbolos y tradiciones de la Navidad junto a Ale Villegas, conectando historia, fe y experiencias personales."
+url: "https://www.youtube.com/watch?v=bSgKmOLSPtQ"
 image:
   url: "/src/images/blog/thumbnail-dab-e5.jpg"
   alt: "DAB - E5 - Orígenes de Navidad"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Navidad", "Tradiciones"]
 ---
-
-[https://youtu.be/bSgKmOLSPtQ?si=Ei_o_Ge2Kgav9G1z](https://youtu.be/bSgKmOLSPtQ?si=Ei_o_Ge2Kgav9G1z)
 
 # **¡Prepárate para un viaje a través del tiempo y las tradiciones!**
 

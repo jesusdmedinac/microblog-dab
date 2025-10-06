@@ -3,13 +3,12 @@ pubDate: 2022-11-25
 author: Heber Villegas y Jesus Medina
 title: DAB - E2 - Enseñanza vs Inspiración
 description: "En este episodio piloto, titulado DAB - E0 - Episodio Piloto, presentamos el corazón de lo que será Discusiones Bíblicas: un espacio de conversación donde la fe, la curiosidad y el pensamiento crítico se encuentran."
+url: "https://www.youtube.com/watch?v=ccFAmOFWQZ0"
 image:
   url: "/src/images/blog/thumbnail-dab-e2.jpg"
   alt: "DAB - E2 - Enseñanza vs Inspiración"
 tags: ["Podcast", "Random", "DAB", "Discusiones Bíblicas", "Piloto", "Enseñanza", "Inspiración"]
 ---
-
-[https://youtu.be/ccFAmOFWQZ0?si=f9nChUxyvvLUfeRt](https://youtu.be/ccFAmOFWQZ0?si=f9nChUxyvvLUfeRt)
 
 Bienvenidos a Discusiones Bíblicas, un podcast de discusiones alrededor de la Biblia.
 

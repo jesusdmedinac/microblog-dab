@@ -3,13 +3,12 @@ pubDate: 2024-06-10
 author: Heber Villegas y Jesus Medina
 title: DAB - E4 - Acción de gracias
 description: "Analizamos Acción de Gracias desde la Biblia, comparando tradiciones, mandatos y formas de celebrar con un corazón agradecido."
+url: "https://www.youtube.com/watch?v=_w0uYdnKHVw"
 image:
   url: "/src/images/blog/thumbnail-dab-e4.jpg"
   alt: "DAB - E4 - Acción de gracias"
 tags: ["Podcast", "DAB", "Discusiones Bíblicas", "Acción de Gracias", "Thanksgiving"]
 ---
-
-[https://youtu.be/_w0uYdnKHVw?si=Jo8z7S1bCc45pdV9](https://youtu.be/_w0uYdnKHVw?si=Jo8z7S1bCc45pdV9)
 
 ¡Bienvenidos a Discusiones Bíblicas, el podcast donde la Biblia se convierte en un banquete de ideas!
 

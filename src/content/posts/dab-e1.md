@@ -3,13 +3,12 @@ pubDate: 2022-09-17
 author: Heber Villegas y Jesus Medina
 title: DAB - E1 - Espíritus Encarcelados
 description: "En este episodio piloto, titulado DAB - E0 - Episodio Piloto, presentamos el corazón de lo que será Discusiones Bíblicas: un espacio de conversación donde la fe, la curiosidad y el pensamiento crítico se encuentran."
+url: "https://www.youtube.com/watch?v=f9LKXGiHegs"
 image:
   url: "/src/images/blog/thumbnail-dab-e1.jpg"
   alt: "DAB - E1 - Espíritus Encarcelados"
 tags: ["DAB", "Discusiones Bíblicas", "Podcast", "Espíritus Encarcelados", "Biblia", "1 Pedro", "SUD", "Mormones"]
 ---
-
-[https://youtu.be/f9LKXGiHegs?si=ExyxIhxcfniOX4mW](https://youtu.be/f9LKXGiHegs?si=ExyxIhxcfniOX4mW)
 
 En el episodio de hoy discutimos sobre la experiencia de Heber visitando la Iglesia de los Santos de los últimos días.
 
