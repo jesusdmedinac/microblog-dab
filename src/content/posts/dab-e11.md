@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-06-28
 author: Heber Villegas y Jesus Medina
-title: DAB - E11 - Discusiones Random: Dudas, Verdades y Contradicciones
+title: DAB - E11 - Discusiones Random - Dudas, Verdades y Contradicciones
 description: "Transmitimos en vivo una charla sin guion sobre las dudas de fe, las contradicciones bíblicas y la necesidad de estudiar más allá del adoctrinamiento."
 image:
   url: "/src/images/blog/thumbnail-dab-e11.png"

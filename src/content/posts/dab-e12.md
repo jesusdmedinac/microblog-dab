@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-07-12
 author: Heber Villegas y Jesus Medina
-title: DAB - E12 - Marcha para Jesús: Fe, Política y Contradicciones
+title: DAB - E12 - Marcha para Jesús - Fe, Política y Contradicciones
 description: "Desmenuzamos la Marcha para Jesús Tijuana 2025 tras asistir a la Alianza Evangélica y cuestionar el uso político de la fe."
 image:
   url: "/src/images/blog/thumbnail-dab-e12.png"
