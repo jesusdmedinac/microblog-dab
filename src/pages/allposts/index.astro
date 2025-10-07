@@ -2,12 +2,23 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import BlogEntries from "@/components/entries/BlogEntry.astro";
+import Cta from "@/components/global/Cta.astro";
+import logo from "@/images/logo-circular.png";
+import logoSpotify from "@/images/logo-spotify.png";
+import logoYoutube from "@/images/logo-youtube.png";
 const allPosts = await getCollection("posts");
 const sortedPosts = allPosts.sort(
   (a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate)
 );
 ---
 <BaseLayout title="Discusiones Alrededor de la Biblia" displayBanner={true}>
+  <Cta
+    title="Ya estamos en Spotify"
+    description="Disfruta de nuestros episodios en audio o video"
+    url="https://open.spotify.com/show/6YUuB3dgq7vaLK6YVXvs7Q"
+    image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+    socialImage={{ src: logoSpotify, alt: "Discusiones Alrededor de la Biblia" }}
+  />
   <section>
     <div class="grid grid-cols-1 mt-4 gap-8 gap-y-24 sm:grid-cols-2">
       {
@@ -30,4 +41,11 @@ const sortedPosts = allPosts.sort(
       }
     </div>
   </section>
+  <Cta
+    title="Conoce nuestro canal de YouTube"
+    description="Suscríbete a nuestro canal de YouTube y únete a la comunidad de Discusiones Bíblicas."
+    url="https://www.youtube.com/@discusionesalrededordebiblia"
+    image={{ src: logo, alt: "Discusiones Alrededor de la Biblia" }}
+    socialImage={{ src: logoYoutube, alt: "Discusiones Alrededor de la Biblia" }}
+  />
 </BaseLayout>
