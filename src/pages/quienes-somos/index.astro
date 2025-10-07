@@ -1,13 +1,29 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
-
+import avatarHeber from "../../images/avatar-heber.png";
+import avatarJesus from "../../images/avatar-jesus.png";
+import Image from "astro/components/Image.astro";
 ---
-<BaseLayout title="¿Quiénes somos?">
+<BaseLayout title="¿Quiénes somos?" displayBanner={false}>
   <section>
-    <div class="flex flex-col gap-8">
-      <h2 class="text-2xl font-medium font-display text-base-900">Heber</h2>
+    <div class="flex flex-col gap-8 items-center">
+      <Image
+      width={512}
+      height={512}
+      src={avatarHeber}
+      alt="Heber Villegas"
+      class="w-64 h-64 object-cover rounded-full"
+      />
+      <h2 class="text-2xl font-medium font-display text-base-900">Heber Villegas</h2>
       <p class="text-base font-medium font-display text-base-900">Apasionado por el aprendizaje con el propósito de enseñar. Valoro la claridad y la profundidad en las respuestas, y dedico horas a investigar, especialmente temas bíblicos. Mi enfoque se centra en capítulos y controversias específicas, analizando diversas interpretaciones para llegar a una comprensión sólida.</p>
-      <h2 class="text-2xl font-medium font-display text-base-900">Jesús</h2>
+      <Image
+      width={512}
+      height={512}
+      src={avatarJesus}
+      alt="Jesús Medina"
+      class="w-64 h-64 object-cover rounded-full"
+      />
+      <h2 class="text-2xl font-medium font-display text-base-900">Jesús Medina</h2>
       <p class="text-base font-medium font-display text-base-900">Cristiano comprometido con el estudio y la enseñanza de la Biblia. Disfruto debatiendo temas polémicos, pero siempre desde la investigación rigurosa y el respeto. He leído la Biblia en su totalidad en múltiples ocasiones y he participado en discusiones interreligiosas en ambientes académicos y públicos, como universidades en Francia.</p>
     </div>
   </section>
